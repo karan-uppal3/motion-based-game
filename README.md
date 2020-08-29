@@ -14,3 +14,7 @@ pip install pygame
 ```bash
 python3 final.py
 ```
+
+### To-do:
+1. Improve tracking
+2. Improve gameplay by increasing speed after a certain number of points
